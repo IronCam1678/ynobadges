@@ -4,5 +4,6 @@
   "mapY2": 14,
   "switchId": 135,
   "switchValue": true,
+  "switchDelay": true,
   "trigger": "coords"
 }
