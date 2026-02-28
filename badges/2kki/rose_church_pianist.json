@@ -4,6 +4,7 @@
   "reqType": "tag",
   "reqString": "rose_church_pianist",
   "map": 581,
+  "secretCondition": true,
   "art": "Canio",
   "animated": true,
   "batch": 126
