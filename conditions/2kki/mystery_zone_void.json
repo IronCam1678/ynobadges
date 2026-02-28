@@ -1,5 +1,5 @@
 {
   "map": 2246,
-  "trigger": "event",
+  "trigger": "eventAction",
   "value": "9"
 }
